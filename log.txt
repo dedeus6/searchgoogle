@@ -1,0 +1,2 @@
+O tempo da busca foi: 3005.30ms
+O tempo da busca foi: 2847.28ms
