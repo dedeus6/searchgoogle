@@ -7,5 +7,5 @@
     In console of python, you type what you want search in youtube. After, your FireFox is open in the searched page of youtube.
     
 <h3> Technologies </h3>
-    - Python3 
+    - Python3</br>
     - Selenium Web Driver
